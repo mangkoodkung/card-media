@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" fill="none">
+  <title>Stitched journal divider with little dog bone</title>
+  <path d="M20 52h405m150 0h405" stroke="#ad9170" stroke-width="1.2" stroke-dasharray="4 7" stroke-linecap="round" opacity=".6"/>
+  <path d="m29 55 2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5m942 0 2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5" fill="#baa077"/>
+  <path d="M438 54c8 0 13-4 18-9m88 9c-8 0-13-4-18-9" stroke="#9da78d" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M442 52c-7-7-4-12-1-14 6 4 9 9 1 14m9-6c-2-8 3-12 7-12 3 7 1 12-7 12m107 6c7-7 4-12 1-14-6 4-9 9-1 14m-9-6c2-8-3-12-7-12-3 7-1 12 7 12" fill="#b0b89d"/>
+  <path d="M477 41c-2-5-9-5-12 0-2 5 0 10 5 11-3 5 0 11 6 11 4 0 6-3 7-6h34c1 3 3 6 7 6 6 0 9-6 6-11 5-1 7-6 5-11-3-5-10-5-12 0h-46Z" fill="#e1be8c" stroke="#a17c55" stroke-width="1.6"/>
+  <path d="M478 45h45m-52-3-1 3" stroke="#fff1d5" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="414" cy="52" r="2" fill="#baa077"/><circle cx="586" cy="52" r="2" fill="#baa077"/>
+  <path d="M76 79c41 3 59 3 88 1m672 0c29 2 47 2 88-1" stroke="#d4bf9f" stroke-width="1" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="170" viewBox="0 0 780 170" fill="none">
+  <title>Demi’s Lofi Corner</title>
+  <defs><linearGradient id="ink" x1="150" y1="20" x2="590" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#674635"/><stop offset=".55" stop-color="#8b6147"/><stop offset="1" stop-color="#694b39"/></linearGradient></defs>
+  <path d="M118 119c29 19 88 28 132 12m280 0c45 16 104 7 132-12" stroke="#baa183" stroke-width="2" stroke-linecap="round"/>
+  <path d="M114 117c-12-8-10-20-8-23 10 6 16 14 8 23m18 9c-10-8-9-17-6-21 10 5 15 14 6 21m18 6c-6-8-3-17 2-20 7 8 9 15-2 20m516-15c12-8 10-20 8-23-10 6-16 14-8 23m-18 9c10-8 9-17 6-21-10 5-15 14-6 21m-18 6c6-8 3-17-2-20-7 8-9 15 2 20" fill="#9ca58b"/>
+  <text x="390" y="98" text-anchor="middle" font-family="Georgia,Palatino,serif" font-size="58" font-style="italic" font-weight="bold" letter-spacing="-.8" fill="#f9e8c9" stroke="#f9e8c9" stroke-width="7" paint-order="stroke">Demi’s Lofi Corner</text>
+  <text x="390" y="98" text-anchor="middle" font-family="Georgia,Palatino,serif" font-size="58" font-style="italic" font-weight="bold" letter-spacing="-.8" fill="url(#ink)">Demi’s Lofi Corner</text>
+  <path d="M285 135h73m64 0h73" stroke="#b2926e" stroke-width="1.5" stroke-dasharray="3 5" stroke-linecap="round"/>
+  <path d="M378 126c-2-4-7-4-9 0-2 4 0 8 3 8-2 4 0 8 4 8 3 0 4-2 5-4h18c1 2 2 4 5 4 4 0 6-4 4-8 3 0 5-4 3-8-2-4-7-4-9 0h-24Z" fill="#dbb178" stroke="#97704c" stroke-width="1.5"/>
+  <g transform="translate(35 63) rotate(-10)"><circle cx="35" cy="35" r="34" fill="#685246" stroke="#9e7a57" stroke-width="2"/><circle cx="35" cy="35" r="26" stroke="#987960" stroke-width="1"/><circle cx="35" cy="35" r="21" stroke="#987960" stroke-width=".8"/><circle cx="35" cy="35" r="15" fill="#c8a375"/><circle cx="35" cy="35" r="4" fill="#f1ddbc"/><path d="M18 15c-6 4-10 11-11 19m49 12c-3 5-7 9-12 12" stroke="#cfb58f" stroke-width="2" stroke-linecap="round"/><path d="m74 0-3 49-11 10" stroke="#8e7057" stroke-width="5" stroke-linecap="round"/><rect x="53" y="53" width="17" height="9" rx="3" fill="#d2b491" transform="rotate(-43 61 57)"/></g>
+  <g transform="translate(690 65) rotate(12)"><path d="M5 27c-2-4-8-4-10 0-3 5 0 9 4 10-2 4 0 10 5 10 4 0 6-3 6-5h28c1 2 3 5 6 5 6 0 8-6 5-10 4-1 7-5 5-10-2-4-8-4-10 0H5Z" fill="#e6c399" stroke="#8d684a" stroke-width="2"/><path d="M6 30h35" stroke="#fff0d2" stroke-width="2" stroke-linecap="round"/></g>
+  <path d="m136 39 3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8m521-17 2 6 6 2-6 2-2 6-2-6-6-2 6-2 2-6" fill="#b8925e"/>
+  <path d="m714 46 1 5 5 1-5 1-1 5-1-5-5-1 5-1 1-5" fill="#a7af94"/><circle cx="105" cy="47" r="3" fill="#b8925e"/><circle cx="640" cy="47" r="2" fill="#a7af94"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Caramel paw sticker</title>
+  <path d="M15 41c-1-8 7-14 12-10 4-8 12-8 16 0 6-4 13 2 12 10-1 10-11 15-20 15S16 51 15 41Z" fill="#dcad76" stroke="#835e42" stroke-width="2"/>
+  <ellipse cx="12" cy="27" rx="6.5" ry="9" transform="rotate(-27 12 27)" fill="#dcad76" stroke="#835e42" stroke-width="2"/>
+  <ellipse cx="26" cy="16" rx="6.5" ry="9" transform="rotate(-8 26 16)" fill="#dcad76" stroke="#835e42" stroke-width="2"/>
+  <ellipse cx="42" cy="16" rx="6.5" ry="9" transform="rotate(8 42 16)" fill="#dcad76" stroke="#835e42" stroke-width="2"/>
+  <ellipse cx="56" cy="27" rx="5.5" ry="8" transform="rotate(27 56 27)" fill="#dcad76" stroke="#835e42" stroke-width="2"/>
+  <path d="M23 39c1-3 4-5 7-4M23 13l-1 3m17-3-1 3M8 24l-1 3m47-3-1 2" stroke="#ffeed0" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31 43c0-3 4-4 5-1 2-3 6-2 6 1 0 3-6 7-6 7s-5-4-5-7Z" fill="#ac7957"/>
+</svg>

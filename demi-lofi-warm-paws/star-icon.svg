@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Warm twinkle sticker</title>
+  <path d="m31 6 6 17 18 7-18 7-6 20-7-20-18-7 18-7 7-17Z" fill="#e7c58d" stroke="#a17e50" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m31 16 3 11 11 3-11 3-3 13-4-13-11-3 11-3 4-11Z" fill="#fff0d0"/>
+  <path d="m52 5 2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5" fill="#aeb99a"/>
+  <circle cx="9" cy="50" r="3" fill="#bd9564"/><circle cx="55" cy="48" r="2" fill="#a6b18e"/>
+</svg>

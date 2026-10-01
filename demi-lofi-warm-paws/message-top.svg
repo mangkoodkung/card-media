@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" fill="none">
+  <title>Scrapbook message border with tape, vinyl and paper corners</title>
+  <path d="M17 54c55-2 73 0 114 0h738c45 0 59-2 114 0" stroke="#b49774" stroke-opacity=".45" stroke-width="1.5"/>
+  <path d="M28 67h154m39 0h59m459 0h48m32 0h153" stroke="#b09a7d" stroke-opacity=".55" stroke-width="1" stroke-dasharray="3 6" stroke-linecap="round"/>
+  <g transform="translate(37 30) rotate(-8)"><path d="m0 1 11 3 9-3 8 2 9-3 11 3 10-2 10 2 10-3 10 2 8-2 7 4 7-2v37l-9-2-7 3-11-3-10 3-9-2-11 2-10-3-10 2-10-2-10 3-8-3-5 2V1Z" fill="#b9c0a8" opacity=".68"/><path d="M5 11h100M5 18h100M5 25h100" stroke="#77866a" stroke-opacity=".13" stroke-width="1"/><path d="M16 4v28m18-28v28m18-28v28m18-28v28m18-28v28" stroke="#fffbe8" stroke-opacity=".35" stroke-width="1"/></g>
+  <g transform="translate(845 14) rotate(8)"><path d="m0 2 10 2 8-2 9 2 11-2 7 2 11-2 9 3 10-2 8 2 8-2 12 3-3 36-12-2-7 2-8-2-10 1-8-2-11 2-9-2-7 2-10-3-8 2L0 2Z" fill="#d9ba8d" opacity=".78"/><path d="m10 9 5 5m9-5 5 5m9-5 5 5m9-5 5 5m9-5 5 5m9-5 5 5m-82 5 5 5m9-5 5 5m9-5 5 5m9-5 5 5m9-5 5 5m9-5 5 5" stroke="#fff3d8" stroke-width="2" stroke-opacity=".7" stroke-linecap="round"/></g>
+  <g transform="translate(933 63) rotate(10)"><circle cx="0" cy="0" r="39" fill="#665248" stroke="#a38b70" stroke-width="1.5"/><circle r="32" stroke="#96816d" stroke-width=".7"/><circle r="27" stroke="#96816d" stroke-width=".7"/><circle r="22" stroke="#96816d" stroke-width=".7"/><circle r="14" fill="#c7a278"/><circle r="4" fill="#f4e1c4"/><path d="M-25-12c3-6 7-10 12-13M23 15c-3 4-7 8-11 10" stroke="#d6c1a1" stroke-width="2" stroke-linecap="round"/><path d="m5-7 1 3 3 1-3 1-1 3-1-3-3-1 3-1 1-3" fill="#f4e1c4"/></g>
+  <path d="M974 97v59l-31 16 31-75Z" fill="#dcc3a0" opacity=".36"/><path d="m975 96-31 53c8-5 20-6 31-2V96Z" fill="#fef2dc" stroke="#b39a79" stroke-width="1"/>
+  <path d="M24 105v44l32 19-32-63Z" fill="#dcc3a0" opacity=".28"/><path d="m24 106 29 45c-11-3-19-1-29 3v-48Z" fill="#fff2dc" stroke="#c8ad87" stroke-width="1"/>
+  <path d="m202 31 2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5m585-7 2 5 5 2-5 2-2 5-2-5-5-2 5-2 2-5" fill="#bc9968"/>
+  <circle cx="217" cy="39" r="2" fill="#a6af96"/><circle cx="767" cy="42" r="2" fill="#bd9b6b"/>
+  <path d="m740 26 1 3 3 1-3 1-1 3-1-3-3-1 3-1 1-3" fill="#a6af96"/>
+  <g transform="translate(472 44)"><path d="M6 2c-1-3-5-3-7 0-1 3 0 6 3 6-2 3 0 6 3 6 2 0 3-1 4-3h34c1 2 2 3 4 3 3 0 5-3 3-6 3 0 4-3 3-6-2-3-6-3-7 0H6Z" fill="#e4c99f" stroke="#ac8c64" stroke-width="1.2"/><path d="M7 5h36" stroke="#fff4df" stroke-width="1.2"/></g>
+</svg>
